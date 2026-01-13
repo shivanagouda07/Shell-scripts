@@ -1,0 +1,6 @@
+john  HR      45000
+mike  IT      60000
+sara  IT      70000
+paul  Finance 50000
+rita  HR      48000
+
